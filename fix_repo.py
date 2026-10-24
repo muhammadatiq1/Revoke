@@ -3,7 +3,7 @@ import shutil
 import subprocess
 import sys
 
-repo_path = r"C:\Users\Atif Traders\OneDrive\Desktop\Revoke"
+repo_path = r"C:\path\to\Revoke"
 revoke_path = os.path.join(repo_path, "revoke")
 git_path = os.path.join(repo_path, ".git")
 
